@@ -11,5 +11,6 @@
 
 ## Usage
 
-![Screenshot of Website](assets/images/Refactor.png)
+![Screenshot of Website](assets/images/HTML-CSS%20Refactpr.png)
+
 
