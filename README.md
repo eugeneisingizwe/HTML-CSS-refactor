@@ -10,8 +10,10 @@
 
 ##Link To Deployed Application 
 
+https://eugeneisingizwe.github.io/HTML-CSS-refactor/
+
 ## Usage
 
-![Screenshot of Website](assets/images/HTML-CSS%20Refactpr.png)
+![Screenshot of Website](Assets/images/html-css-refactor.png)
 
 
