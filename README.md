@@ -1,4 +1,4 @@
-# Unit-01-CODE-REFACTOR
+# HTML-CSS-Refactor ReadME
 
 ## Description
 
@@ -12,5 +12,6 @@
 
 ## Usage
 
-![Screenshot of Website](assets/images/Refactor.png)
+![Screenshot of Website](assets/images/HTML-CSS%20Refactpr.png)
+
 
